@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Nova pasta\bin\Debug\net6.0-windows\metOrdenacao.exe
+C:\Users\User\Desktop\Nova pasta\bin\Debug\net6.0-windows\metOrdenacao.deps.json
+C:\Users\User\Desktop\Nova pasta\bin\Debug\net6.0-windows\metOrdenacao.runtimeconfig.json
+C:\Users\User\Desktop\Nova pasta\bin\Debug\net6.0-windows\metOrdenacao.dll
+C:\Users\User\Desktop\Nova pasta\bin\Debug\net6.0-windows\metOrdenacao.pdb
+C:\Users\User\Desktop\Nova pasta\obj\Debug\net6.0-windows\metOrdenacao.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Nova pasta\obj\Debug\net6.0-windows\metOrdenacao.Frame.resources
+C:\Users\User\Desktop\Nova pasta\obj\Debug\net6.0-windows\metOrdenacao.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Nova pasta\obj\Debug\net6.0-windows\metOrdenacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Nova pasta\obj\Debug\net6.0-windows\metOrdenacao.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Nova pasta\obj\Debug\net6.0-windows\metOrdenacao.AssemblyInfo.cs
+C:\Users\User\Desktop\Nova pasta\obj\Debug\net6.0-windows\metOrdenacao.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Nova pasta\obj\Debug\net6.0-windows\metOrdenacao.dll
+C:\Users\User\Desktop\Nova pasta\obj\Debug\net6.0-windows\refint\metOrdenacao.dll
+C:\Users\User\Desktop\Nova pasta\obj\Debug\net6.0-windows\metOrdenacao.pdb
+C:\Users\User\Desktop\Nova pasta\obj\Debug\net6.0-windows\metOrdenacao.genruntimeconfig.cache
+C:\Users\User\Desktop\Nova pasta\obj\Debug\net6.0-windows\ref\metOrdenacao.dll
